@@ -13,3 +13,5 @@
 changes index
 master dev
 master1 dev1
+dev dev
+dev1 dev1
